@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="ChatGPT Image May 23, 2026, 11_48_09 AM" src="https://github.com/user-attachments/assets/c3d5546f-f938-4e42-9b1b-5438d0e9909a" />
+<img width="1774" height="887" alt="ChatGPT Image May 24, 2026, 12_08_04 AM" src="https://github.com/user-attachments/assets/2ded068c-f65b-42e9-9b5a-e058be4529ea" />
 
 
 # Compiler Design – SWAYAM NPTEL (Assignments & Notes)
