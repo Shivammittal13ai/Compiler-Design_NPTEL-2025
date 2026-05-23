@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image May 23, 2026, 11_48_09 AM" src="https://github.com/user-attachments/assets/c3d5546f-f938-4e42-9b1b-5438d0e9909a" />
+
+
 # Compiler Design – SWAYAM NPTEL (Assignments & Notes)
 
 📘 This repository contains **assignment** from the **Compiler Design** course offered by **SWAYAM NPTEL** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
