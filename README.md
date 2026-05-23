@@ -1,17 +1,16 @@
-<img width="1774" height="887" alt="ChatGPT Image May 24, 2026, 12_08_04 AM" src="https://github.com/user-attachments/assets/2ded068c-f65b-42e9-9b5a-e058be4529ea" />
-
+<img width="1983" height="776" alt="ChatGPT Image May 24, 2026, 12_34_33 AM" src="https://github.com/user-attachments/assets/6c183dc7-443b-4c89-adb8-ecafbbdf7b0e" />
 
 # Compiler Design – SWAYAM NPTEL (Assignments & Notes)
 
-📘 This repository contains **assignment** from the **Compiler Design** course offered by **SWAYAM NPTEL** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+📘 This repository contains **assignments** from the **Compiler Design** course offered by **SWAYAM NPTEL by IIT Kharagpur** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
 
 ---
 
 ## 🎯 Purpose
 
 This repository is created to help learners by:
-- Providing assignment for multiple NPTEL sessions (2020, 2022, 2025) for quick revision and reference
-- Sharing lecture notes from the 2025 session for reference
+- Providing assignments for multiple NPTEL sessions (2020, 2022, 2025) for quick revision and reference.
+- Sharing official lecture notes from the 2025 session for reference.
 
 ---
 
@@ -33,6 +32,13 @@ You are welcome to contribute by:
 - Sharing additional learning resources
 
 Please feel free to open a pull request or raise an issue.
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a star ⭐  
+It helps the repository reach more learners.
 
 ---
 
