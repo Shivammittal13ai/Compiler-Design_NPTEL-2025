@@ -4,10 +4,13 @@
 
 Assignments • Notes • Resources
 
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
-![License](https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/SWAYAM-NPTEL-blue?style=for-the-badge)
+
+![Stars](https://img.shields.io/github/stars/Shivammittal13ai/Compiler-Design_NPTEL-2025?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Shivammittal13ai/Compiler-Design_NPTEL-2025?style=for-the-badge)
+![License](https://img.shields.io/github/license/Shivammittal13ai/Compiler-Design_NPTEL-2025?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/SWAYAM-NPTEL-0d1117?style=for-the-badge)
+![IIT Kharagpur](https://img.shields.io/badge/IIT-Kharagpur-00d4ff?style=for-the-badge)
+
 
 ---
 
