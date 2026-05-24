@@ -1,14 +1,6 @@
 <img width="2172" height="724" alt="ChatGPT Image May 24, 2026, 11_24_14 AM" src="https://github.com/user-attachments/assets/15a6185e-4c2c-4eb8-8d89-6f0b3ffb691d" />
 
-# Compiler Design – SWAYAM NPTEL 
-
-Assignments • Notes
-
-![Stars](https://img.shields.io/github/stars/Shivammittal13ai/Compiler-Design_NPTEL-2025?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Shivammittal13ai/Compiler-Design_NPTEL-2025?style=for-the-badge)
-![License](https://img.shields.io/github/license/Shivammittal13ai/Compiler-Design_NPTEL-2025?style=for-the-badge)
-![NPTEL](https://img.shields.io/badge/SWAYAM-NPTEL-0d1117?style=for-the-badge)
-![IIT Kharagpur](https://img.shields.io/badge/IIT-Kharagpur-00d4ff?style=for-the-badge)
+# Compiler Design – SWAYAM NPTEL (Assignments & Notes)
 
 ---
 
@@ -20,15 +12,9 @@ Assignments • Notes
 
 This repository is created to help learners by:
 
-- Providing assignments from multiple NPTEL sessions for quick revision and reference.
-- Sharing official lecture notes for reference.
+- Providing assignments from multiple NPTEL sessions(2020, 2022 & 2025) for quick revision and reference.
+- Sharing official lecture notes from 2025 session for reference.
 
----
-
-## 📚 Repository Contents 
-- ✅ Assignments (2020, 2022, 2025)
-- ✅ Official Lecture Notes (2025)
-  
 ---
 
 ## 📌 Course Information
@@ -46,9 +32,7 @@ This repository is created to help learners by:
 
 ## 🤝 Contributions
 
-Contributions are welcome.
-
-You can contribute by:
+You are welcome to contribute by:
 
 - Adding new session materials (e.g., from other years).
 - Improving organization and clarity.
