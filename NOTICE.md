@@ -1,6 +1,6 @@
 ## Attribution Notice
 
-The materials in this repository are based on the "Compiler Design" course offered by SWAYAM-NPTEL.
+The materials in this repository are based on the "Compiler Design" course offered by SWAYAM-NPTEL by IIT Kharagpur.
 
 - **Instructor:** Prof. Santanu Chattopadhyay – IIT Kharagpur  
 - **Platform:** [SWAYAM-NPTEL](https://swayam.gov.in/)
