@@ -13,7 +13,7 @@
 This repository is created to help learners by:
 
 - Providing assignments from multiple NPTEL sessions (2020, 2022 & 2025) for quick revision and reference.
-- Sharing official lecture notes from 2025 session for reference.
+- Sharing official lecture notes from the 2025 session for reference.
 
 ---
 
