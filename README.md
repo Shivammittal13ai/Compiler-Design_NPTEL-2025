@@ -2,9 +2,7 @@
 
 # Compiler Design – SWAYAM NPTEL | IIT Kharagpur (Assignments & Notes)
 
----
-
-📘 This repository contains **assignments** from the **Compiler Design** course offered by **IIT Kharagpur** in collaboration with **SWAYAM-NPTEL** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **2025 session** by the instructor.
+📘 This repository contains **assignments** from the **Compiler Design** course offered by **IIT Kharagpur** in collaboration with **SWAYAM-NPTEL** in the years **2020**, **2022**, and **2025**, along with the **official lecture notes** shared during the **Jan–Apr 2025 session** by the instructor.
 
 ---
 
@@ -13,7 +11,7 @@
 This repository is created to help learners by:
 
 - Providing assignments from multiple NPTEL sessions (2020, 2022 & 2025) for quick revision and reference.
-- Sharing official lecture notes from the 2025 session for reference.
+- Sharing official lecture notes from the Jan–Apr 2025 session for reference.
 
 ---
 
@@ -27,6 +25,8 @@ This repository is created to help learners by:
 | **Instructor** | Prof. Santanu Chattopadhyay | 
 | **Duration** | 12 Weeks | 
 | **Course Link** | https://onlinecourses.nptel.ac.in/noc25_cs13/preview |
+
+> 💡 **Note:** This course is offered **only once a year**, during the **Jan–Apr session**.
 
 ---
 
